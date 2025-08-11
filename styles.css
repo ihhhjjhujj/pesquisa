@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --Rosa: #ffcbdb;
+    --Rosa: #FFCBDB;
  }
 
 body {
@@ -71,13 +71,13 @@ section {
 }
 
 
-#tropicalia {
+#O clube das winx {
     position: relative;
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
     background: url('img/flor.png') top right no-repeat,
-        url('img/flor-esquerda.png') bottom left no-repeat;
+        url('IMG/Bloom.png') bottom left no-repeat;
     background-size: 180px 180px;
     /* Ajuste o tamanho conforme necessário */
 }
